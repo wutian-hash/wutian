@@ -5,4 +5,6 @@ liuhuzhenshuai
 
 test synchronized
 
-test create branch 
+test create branch
+
+test merge master
