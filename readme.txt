@@ -5,6 +5,12 @@ liuhuzhenshuai
 
 test synchronized
 
+<<<<<<< HEAD
 test create branch
 
 test merge master
+=======
+test create branch 
+
+test merge master
+>>>>>>> dev
